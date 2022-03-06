@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/List/Are you there" />
+            <option value="$PROJECT_DIR$/Topics/List/Concise" />
+            <option value="$PROJECT_DIR$/Topics/List/Even numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/Indexes" />
+            <option value="$PROJECT_DIR$/Topics/List/It's all about the List" />
+            <option value="$PROJECT_DIR$/Topics/List/List initializing" />
+            <option value="$PROJECT_DIR$/Topics/List/My position" />
+            <option value="$PROJECT_DIR$/Topics/List/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/List/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Add them all" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Adding" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Banana" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/MutableList properties" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/New List" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Remove us" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Transformation" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Updating an element" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/You don't need them" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Backslash problem" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Creating regexes" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Different colo(u)rs" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Escapism" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Help the teacher" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Matching pattern" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Rings of Power" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

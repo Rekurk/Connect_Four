@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Topics/Debugging techniques/Find the error/build/
+/Topics/Regexps/Help the teacher/build/
+/Topics/Regexps/Help the teacher/out/
+/Topics/Regexps/Theory/build/
+/Topics/Regexps/Theory/build/classes/java/main/
+/Topics/The Math library/Pow/build/
+/Topics/The Math library/Sine and cosine/build/
